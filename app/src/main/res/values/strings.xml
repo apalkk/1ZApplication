@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">1ZApplication</string>
+    <string name="good_morning">Good morning</string>
+    <string name="good_evening">Good evening</string>
+    <string name="good_night">Good night</string>
+</resources>
